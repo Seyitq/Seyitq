@@ -5,9 +5,13 @@ Yaklaşık 9 yaşında arduinoyla tanışarak başladığım Elektrik ve Elektro
 hakimim.
 
 🖥️ Gömülü Yazılım - Uygulama
+
 🤖 Robotik
+
 ⚡️ IoT
+
 🔌 Elektronik
+
 ⌨️ C++, C#, Javascript, Python
 
 ![Seyitin istatistikleri](https://github-readme-stats.vercel.app/api?username=Seyitq&show_icons=true&theme=radical)
