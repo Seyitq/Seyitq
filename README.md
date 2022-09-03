@@ -4,6 +4,12 @@ Yaklaşık 9 yaşında arduinoyla tanışarak başladığım Elektrik ve Elektro
 öğrenerek devam ediyorum. Aktif olarak Javascript,Python, C++, C# dillerine
 hakimim.
 
+🖥️ Gömülü Yazılım - Uygulama
+🤖 Robotik
+⚡️ IoT
+🔌 Elektronik
+⌨️ C++, C#, Javascript, Python
+
 ![Seyitin istatistikleri](https://github-readme-stats.vercel.app/api?username=Seyitq&show_icons=true&theme=radical)
 ![Seyit's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Seyitq&layout=compact&theme=tokyonight)
 
