@@ -14,6 +14,8 @@ hakimim.
 
 ⌨️ C++, C#, Javascript, Python
 
+Benimle iletişime geçmekten çekinmeyin!
+
 ![Seyitin istatistikleri](https://github-readme-stats.vercel.app/api?username=Seyitq&show_icons=true&theme=radical)
 ![Seyit's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Seyitq&layout=compact&theme=tokyonight)
 
