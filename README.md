@@ -1,6 +1,6 @@
 # Selam 👋
 Merhaba, ben Seyit. 17 yaşında, kendi halinde bir Elektrik, Elektronik ve Yazılım öğrencisiyim.                   
-Yaklaşık 9 yaşında arduinoyla tanışarak başladığım Elektrik ve Elektronik serüvenine Ruby
+Yaklaşık 9 yaşında arduinoyla tanışarak başladığım Elektrik ve Elektronik, Yazılım serüvenine Ruby
 öğrenerek devam ediyorum. Aktif olarak Javascript,Python, C++, C# dillerine
 hakimim.
 
