@@ -1,6 +1,6 @@
 <img src="https://pbs.twimg.com/media/EKvTF3yXkAA3u1S.jpg" alt="galite" width="1050px" height="200px"/>
 <h1 align="center">Hi 👋, I'm Seyit</h1>
-<h3 align="center">Hello, I'm Seyit. I am a 17-year-old Electrical, Electronics and Software student. I started my Electricity and Electronics, Software adventure, which I started by meeting Arduino when I was about 9 years old, and I continue by learning Ruby. I am proficient in Javascript, TypeScript, Python, C++, C#, C languages.</h3>
+<h3 align="center">Hello, I'm Seyit. I am a 19-year-old Agriculture Engineering student. I started my Electricity and Electronics, Software adventure, which I started by meeting Arduino when I was about 9 years old, and I continue by learning Ruby. I am proficient in Javascript, TypeScript, Python, C++, C#, C languages.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyitq&label=Profile%20views&color=0e75b6&style=flat-square" alt="seyitq" /> </p>
 
